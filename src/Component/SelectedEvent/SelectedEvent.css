@@ -1,0 +1,19 @@
+.selectedEvent img{
+    width:150px;
+    height:200px;
+    margin:10px;
+    
+}
+.singleEvent{
+    border:1px solid lightgrey ;
+    box-shadow: 10px 10px 8px lightgrey;
+    background-color:white;
+    text-align:left;
+    border-radius: 5px;
+    margin: 20px 0;
+
+}
+.singleEvent button{
+    margin-left: 75%;
+}
+    

@@ -1,0 +1,17 @@
+
+
+.updateForm .form-control{
+    border: 1px solid grey;
+    border-top:0 ;
+    border-left:0;
+    border-right:0;
+}
+.updateForm button img{
+    height: 30px;
+}
+.updateForm button{
+    height:55px;
+    max-height: 75px;
+    background-color:#eef4fb;
+}
+

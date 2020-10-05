@@ -1,0 +1,30 @@
+.home img{
+ width:250px;
+ height:300px;
+ border:1px solid lightgrey;
+ border-radius:10px;
+ cursor:pointer;
+}
+
+.cardSize{
+    margin-bottom: 10px;
+    text-align: center;
+    color:white;
+    cursor:pointer;
+}
+.homeSearch{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 50px;
+}
+.home{
+   
+}
+.homeCard{
+    width:250px;
+    margin-top:-50px;    
+    height:70px;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}

@@ -1,0 +1,43 @@
+.registration img{
+    width: 180px;
+    height: 70px;
+    margin-top:50px;
+    margin-left:40%;
+}
+.registration h5{
+    text-align:left;
+    margin-left:5%;
+    margin-bottom:20px;
+}
+.registrationBody{
+    max-width:400px;
+    min-width: 200px;
+    min-height:400px;
+    margin-top:50px;
+    margin-left: 35%;
+    margin-right: 20%;
+    text-align: center;
+    border:1px solid lightgrey;
+    background-color: white;
+}
+.registrationBody input{
+    border:1px solid lightgrey;
+    width: 90%;
+    border-top:0;
+    border-left: 0;
+    border-right: 0;
+    margin-bottom: 10px;
+    margin-left:5%;
+}
+.registrationBody input :focus{
+    border:1px solid lightgrey;
+    background-color: blue;
+    border-top:0;
+    border-left: 0;
+    border-right: 0;   
+}
+.registrationBody button{
+    width:90%;
+    height: 40px;
+    margin: 15px 0;
+}

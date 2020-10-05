@@ -1,0 +1,36 @@
+.login img{
+    width: 180px;
+    height: 70px;
+    margin-top:50px;
+}
+.loginBody{
+    max-width:500px;
+    min-width: 200px;
+    height:300px;
+    margin-top:50px;
+    margin-left: 30%;
+    margin-right: 20%;
+    text-align: center;
+    border:1px solid lightgrey;
+    background-color: white;
+}
+.loginBody h5{
+    margin-top:80px;
+}
+.login button{
+    width:90%;
+    height: 40px;
+    border:1px solid lightgrey;
+    border-radius:30px;
+    background-color:white;
+}
+
+.login button img{
+    width:20px;
+    height:20px;
+    margin-top: 0;
+    margin-left: -10%;
+    margin-right:20px;
+   
+   
+}
